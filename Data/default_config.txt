@@ -1,0 +1,9 @@
+  
+extract_peaks:
+  mz_tolerance: 0.3
+  precursor_mz_tol: 0.3
+  chromatogram_boundary_factor: 5
+  integration_algorithm: linear
+  mz_tol_abs: 0.003
+  ms_level: 2
+
