@@ -15,7 +15,7 @@ The workflow performs the following analysis steps:
 - Generation of bar plots for vitamin concentrations in each condition. 
 
 Outputs:
-- A table with measured concentrations of compounds is generated and saved in './Data/results/results_samples.csv'.
+- A table with measured concentrations of compounds is generated and saved in './Data/results/peaks_table.xlsx'.
 - A detailed results table containing the chromatograms for each measurement is saved in './Data/results/results_samples.table'. This table can be interactively explored using [emzed-gui](https://emzed.ethz.ch/get_started.html).
 
 ## Getting started
